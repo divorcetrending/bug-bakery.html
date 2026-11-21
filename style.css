@@ -59,6 +59,9 @@ h2{
 }
 
 #catering-form{
+ display: flex;
+flex-direction: column;
+justify-content: center;
 background-color: #80c547;
 border: 10px, solid black;
 margin: 5px;
