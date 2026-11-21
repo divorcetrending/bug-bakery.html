@@ -52,6 +52,7 @@ h2{
   padding: 5px;
 }
 #WIP{
+  align-items: flex-end;
   height: 50px;
   font-family: "New Rocker";
   text-align:center;
