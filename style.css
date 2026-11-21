@@ -19,6 +19,10 @@ body{
   background-color: #F1E9D2;
 }
 
+a {
+  color: #0066cc;
+}
+
 #title{
 flex-display: row;
 border: solid black;
@@ -40,6 +44,7 @@ h2{
   display: flex;
   gap: 5px;
   margin: 10px;
+  padding: 10px;
 }
 .box{
   background: #80c547;
@@ -52,6 +57,7 @@ h2{
   margin: 10px;
   padding: 5px;
 }
+
 #WIP{
   align-items: flex-end;
   height: 50px;
@@ -63,3 +69,17 @@ h2{
   margin: 10px;
   padding: 5px;
 }
+
+#aboutfaq{
+background: #80c547;
+font-family: "New Rocker";
+font-size: 15px;
+border: 10px, solid black;
+margin: 10px;
+padding: 5px;
+}
+
+il{
+  list-style: circle;
+}
+
