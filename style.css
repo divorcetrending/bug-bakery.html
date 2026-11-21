@@ -47,7 +47,7 @@ h2{
   padding: 10px;
 }
 .box{
-  background: #80c547;
+  background: #80C547;
   border: solid black;
   height:300px;
   width: 300px;
@@ -60,7 +60,7 @@ h2{
 
 #catering-form{
 border: 10px, solid black;
-background: green;
+background: #80C547;
 margin: 5px;
 padding: 45px;
 text-align: center;
