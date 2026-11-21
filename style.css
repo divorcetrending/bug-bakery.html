@@ -47,7 +47,6 @@ h2{
   padding: 10px;
 }
 .box{
-  justify-content: space-evenly;
   background-color: #80c547;
   border: solid black;
   height: 400px;
