@@ -10,21 +10,26 @@
 
   </head>
   <body>
-  <div class="container" id="title">
-  <h1 id="title">Bug Bakery</h1>
-  <h2> Catering Form </h2>
- <form id="form">
-  <div>
-    <label for="name"> Your Name </label>
-    <input type="text" name="name" placeholder="Your Name" id="name" required>
+  <section id="title" class="container">
+  <h1">Bug Bakery</h1>
+    <div id="navigation">
+    <button> <a alt="Catering Form" href="/.catering.html"> Catering Form </a> </button>
+    <button> <a alt="FAQ/About" href="/.faq-about.html"> FAQ/About </a> </button>
+    <button><a alt="Portfolio" href="/.portfolio">Portfolio</a> </button>
   </div>
+</section>
+  <h2> Catering Form </h2>
+<div>
+ <form id="catering-form" class="container">
+   <label for="name"> Your Name: </label>
+    <input type="text" name="name" placeholder="Your Name" id="request-name" required>
   <div>
-    <label for="email"> Your Email </label>
+    <label for="email"> Your Email: </label>
     <input type="email" name="email" placeholder="Your Email">
   </div>
   <div>
-    <label for="request">Type of Request</label>
-    <select name="request" id="type" required>
+   <label for="good">Type of Good:</label>
+    <select name="good" id="request-good" required>
       <option value="Select Here">Select Here</option>
       <option value="Whole Cake/Pie">Whole Cake/Pie</option>
       <option value="Sninamon Rolls">Sninamon Rolls</option>
@@ -33,7 +38,7 @@
     </select>
   </div>
   <div>
-    <label for="description">Description</label>
+    <label for="description">Description:</label>
 <input type="text" name="description" placeholder="Description" id="description">
   </div>
   <div>
@@ -42,6 +47,6 @@
 </form> 
   <div hidden id="confirmation-message"></div>
 <script src="./script.js"> </script>
-  </div>
-  </body>
+</div>
+</body>
     
