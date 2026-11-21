@@ -11,4 +11,6 @@ form.addEventListener("submit", function(event){
 
   confirmation.textContent = message;
   confirmation.hidden = false;
+
+  log.console()
 });
