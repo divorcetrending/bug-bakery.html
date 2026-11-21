@@ -58,16 +58,30 @@ h2{
   padding: 5px;
 }
 
-#WIP{
-  align-items: flex-end;
-  height: 50px;
-  font-family: "New Rocker";
-  text-align:center;
-  font-size: 15px;
-  border: solid black;
-  list-style-type: circle;
+#catering-form{
+border: 10px, solid black;
+background: green;
+margin: 5px;
+padding: 45px;
+text-align: center;
+}
+label{
+  padding: 10px;
+  text-align:start;
   margin: 10px;
-  padding: 5px;
+}
+div{
+  font-family: "New Rocker";
+  font-size: 20px;
+  border: 15px, white;
+  padding: 10px;
+  margin: 20px;
+}
+#description{
+  width: 300px; 
+  padding: 12px; 
+  font-size: 16px;
+  height: 300px;
 }
 
 #aboutfaq{
