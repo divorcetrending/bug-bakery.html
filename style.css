@@ -86,6 +86,10 @@ div{
   font-size: 16px;
   height: 300px;
 }
+input[type="name"] {
+  width: 50px;
+  height: 40px;
+}
 
 #aboutfaq{
 background: #80c547;
