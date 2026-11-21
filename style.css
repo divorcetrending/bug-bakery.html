@@ -61,9 +61,10 @@ h2{
 }
 
 #catering-form{
+display: flex;
+flex-direction: column;
 background-color: #80c547;
 border: 10px, solid black;
-background: #80C547;
 margin: 5px;
 padding: 45px;
 text-align: center;
@@ -86,9 +87,9 @@ div{
   font-size: 16px;
   height: 300px;
 }
-input[type="name"] {
-  width: 50px;
-  height: 40px;
+#confirmation-message‎{
+  background: #80c547;
+  border: solid black;
 }
 
 #aboutfaq{
