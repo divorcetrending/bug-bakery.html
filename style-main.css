@@ -11,6 +11,7 @@ html {
   font-weight: 400;
   font-style: normal;
 }
+
 body{
   display: flex;
   flex-direction: column;
@@ -24,10 +25,10 @@ body{
  font-size: 35px;
 }
 #form{
-border: 10px, solid black;
- background: green;
-   margin: 10px;
-   padding: 5px;
+border: solid black;
+background-color: #80c547;
+margin: 10px;
+padding: 5px;
 }
 div{
   font-family: "New Rocker";
