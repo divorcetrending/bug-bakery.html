@@ -11,35 +11,30 @@ html {
   font-weight: 400;
   font-style: normal;
 }
-
 body{
   display: flex;
   flex-direction: column;
   background-color: #F1E9D2;
 }
 .container{
-  padding: 10px;
+  justify-content: center;
+  padding: 20px;
 }
 #title{
  font-family: "Pinyon Script", cursive;
- font-size: 35px;
+ font-size: 75px;
 }
-#form{
-border: solid black;
-background-color: #80c547;
-margin: 10px;
-padding: 5px;
+#navigation{
+border: 10px, solid black;
+ background: green;
+   margin: 10px;
+   padding: 5px;
+   text-align: center;
 }
-div{
+button{
+  background: brown;
   font-family: "New Rocker";
-  font-size: 20px;
   border: 15px, white;
   padding: 10px;
   margin: 20px;
-}
-#description{
-  width: 300px; 
-  padding: 12px; 
-  font-size: 16px;
-  height: 300px;
 }
