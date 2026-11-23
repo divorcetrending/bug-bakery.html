@@ -14,6 +14,8 @@ html {
 body{
   display: flex;
   flex-direction: column;
+  background-image: url("images/pas.jpg");
+  background-size: cover;
   background-color: #F1E9D2;
 }
 .container{
