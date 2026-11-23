@@ -14,7 +14,7 @@ html {
 body{
   display: flex;
   flex-direction: column;
-  background-image: url("images/but.jpg");
+  background-image: url("images/but.JPG");
   background-size: cover;
   background-color: #F1E9D2;
 }
