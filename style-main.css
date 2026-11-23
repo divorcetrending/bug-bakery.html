@@ -25,12 +25,12 @@ body{
 #title{
  font-family: "Pinyon Script", cursive;
  font-size: 75px;
-tex-align: center;
-  background-color: #F1E9D2;
+text-align: center;
+background-color: #F1E9D2;
 }
 #navigation{
 border: solid black;
- background: 80c547;
+ background-color: 80c547;
    margin: 10px;
    padding: 5px;
    text-align: center;
