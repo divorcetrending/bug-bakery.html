@@ -14,7 +14,7 @@ html {
 body{
   display: flex;
   flex-direction: column;
-  background-image: url("images/pas.jpg");
+  background-image: url("images/but.jpg");
   background-size: cover;
   background-color: #F1E9D2;
 }
@@ -25,6 +25,8 @@ body{
 #title{
  font-family: "Pinyon Script", cursive;
  font-size: 75px;
+tex-align: center;
+  background-color: #F1E9D2;
 }
 #navigation{
 border: solid black;
