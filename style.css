@@ -86,12 +86,14 @@ div{
   border: 15px, white;
   padding: 10px;
   margin: 20px;
+  text-align:center;
 }
 #description{
   width: 100%; 
   padding: 12px; 
   font-size: 16px;
   height: 300px;
+  text-align: center;
 }
 #confirmation-message‎{
   background-color: #80c547;
