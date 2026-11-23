@@ -25,16 +25,15 @@ body{
  font-size: 75px;
 }
 #navigation{
-border: 10px, solid black;
- background: green;
+border: solid black;
+ background: 80c547;
    margin: 10px;
    padding: 5px;
    text-align: center;
 }
 button{
-  background: brown;
+  background-color: #F1E9D2;
   font-family: "New Rocker";
-  border: 15px, white;
   padding: 10px;
   margin: 20px;
 }
