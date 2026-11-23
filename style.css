@@ -31,6 +31,8 @@ font-family: "Pinyon Script", cursive;
 font-size: 35px;
 padding: 5px;
 height: 100px;
+background-image: url ("images/moth.jpg")
+background-size: cover;
 }
 h1{
  font-family: "Pinyon Script", cursive;
