@@ -74,9 +74,11 @@ label{
   padding: 10px;
   text-align:start;
   margin: 10px;
+  text-align: center;
 }
 input[type=text], select {
   width: 25%;
+  text-align: center;
 }
 div{
   font-family: "New Rocker";
@@ -92,7 +94,7 @@ div{
   height: 300px;
 }
 #confirmation-message‎{
-  background: #80c547;
+  background-color: #80c547;
   border: solid black;
 }
 
