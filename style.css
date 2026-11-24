@@ -101,6 +101,8 @@ div{
 #confirmation-message‎{
   background-color: #80c547;
   border: solid black;
+  margin: 5px;
+  padding: 10px;
 }
 
 #aboutfaq{
