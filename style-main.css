@@ -27,13 +27,14 @@ body{
  font-size: 75px;
 text-align: center;
 background-color: #F1E9D2;
+  border: solid black;
 }
 #navigation{
 border: solid black;
- background-color: 80c547;
-   margin: 10px;
-   padding: 5px;
-   text-align: center;
+background-color: 80c547;
+margin: 10px;
+padding: 5px;
+text-align: center;
 }
 button{
   background-color: #F1E9D2;
