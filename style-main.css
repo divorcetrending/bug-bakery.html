@@ -14,7 +14,6 @@ html {
 body{
   display: flex;
   flex-direction: column;
-  align-items: center;
   background-image: url("images/but.JPG");
   background-size: cover;
   background-color: #F1E9D2;
@@ -22,6 +21,7 @@ body{
 .container{
   justify-content: center;
   padding: 20px;
+  align-items: center;
 }
 #title{
 font-family: "Pinyon Script", cursive;
