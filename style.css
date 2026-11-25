@@ -73,9 +73,9 @@ padding: 45px;
 text-align: center;
 }
 label{
-  padding: 10px;
-  margin: 10px;
-  text-align: center;
+padding: 10px;
+margin: 10px;
+text-align: center;
 }
 input[type=text], select {
   width: 25%;
@@ -100,7 +100,6 @@ div{
   text-align: center;
 }
 #confirmation-message‎{
-  border: solid black;
   margin: 5px;
   padding: 10px;
 }
