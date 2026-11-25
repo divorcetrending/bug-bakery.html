@@ -38,11 +38,13 @@ color: white;
 h1{
  font-family: "Pinyon Script", cursive;
  font-size: 35px;
+ color: white;
 }
 h2{
  font-family: "New Rocker";
   font-size: 50px;
   text-align: center;
+  color: white;
 }
 .container{
   display: flex;
@@ -50,6 +52,7 @@ h2{
   margin: 10px;
   padding: 10px;
   text-align: center;
+  color: black;
 }
 .box{
   background-color: #80c547;
@@ -61,6 +64,7 @@ h2{
   font-family: "New Rocker";
   margin: 10px;
   padding: 5px;
+  color: black;
 }
 
 #catering-form{
