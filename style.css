@@ -81,11 +81,7 @@ text-align: center;
 width: 300;
 height: 600;
 }
-label{
-padding: 10px;
-margin: 10px;
-text-align: center;
-}
+
 input[type=text], select {
   width: 25%;
   text-align: center;
