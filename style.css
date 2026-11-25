@@ -41,19 +41,21 @@ h1{
 h2{
  font-family: "New Rocker";
   font-size: 50px;
+  text-align: center;
 }
 .container{
   display: flex;
   justify-content: space-evenly;
   margin: 10px;
   padding: 10px;
+  text-align: center;
 }
 .box{
   background-color: #80c547;
   border: solid black;
   height: 400px;
   width: 400px;
-  text-align:center;
+  text-align: center;
   font-size: 15px;
   font-family: "New Rocker";
   margin: 10px;
@@ -99,7 +101,6 @@ div{
   text-align: center;
 }
 #confirmation-message‎{
-  background-color: #80c547;
   border: solid black;
   margin: 5px;
   padding: 10px;
