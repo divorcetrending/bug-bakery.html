@@ -73,6 +73,8 @@ border: 10px, solid black;
 margin: 5px;
 padding: 45px;
 text-align: center;
+width: 500;
+height: 600;
 }
 label{
 padding: 10px;
