@@ -32,8 +32,7 @@ font-family: "Pinyon Script", cursive;
 font-size: 35px;
 padding: 5px;
 height: 100px;
-background-image: url ("images/moth.jpg")
-background-size: cover;
+width: 100%;
 color: white;
 }
 h1{
@@ -77,8 +76,8 @@ background-color: #80c547;
 border: 10px, solid black;
 padding: 45px;
 text-align: center;
-width: 300;
-height: 600;
+width: 25%;
+height: 50%;
 }
 
 input[type=text], select {
